@@ -31,5 +31,5 @@
     <img src="https://img.shields.io/badge/系统架构-SeaChange_Chat_Engine-%2300FFFF?style=for-the-badge&logo=starship&logoColor=white">
   </a>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&duration=3000&color=00CED1&center=true&vCenter=true&width=500&lines=Conversational+AI+Powered+by+SeaChange+Lab;Build+with+❤️_from_Shenzhen" alt="动态文字">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&duration=3000&color=00CED1&center=true&vCenter=true&width=500&lines=Conversational+AI+Powered+by+SeaChange+Lab;Build+with+❤️_from_Dongguan" alt="动态文字">
 </div>
