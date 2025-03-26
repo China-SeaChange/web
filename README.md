@@ -12,16 +12,11 @@
 </p>
 
 
-## 🚀 精选项目
-<!-- 项目展示卡片 -->
-| 项目名称 | 技术组合 | 在线演示 | 文档说明 |
-|---------|---------|----------|----------|
-| ​**[AI助手](项目链接)** <br> ![Stars](https://img.shields.io/github/stars/用户名/仓库名?style=flat&logo=github) | Python/React/PostgreSQL | [Demo](演示链接) | [Wiki](文档链接) |
-| ​**[云平台](项目链接)** <br> ![License](https://img.shields.io/badge/license-Apache%202.0-blue) | Java/SpringBoot/K8s | [Demo](演示链接) | [API](文档链接) |
+
 
 ---
 
-## 📈 开发数据
+## 开发数据
 <!-- 动态统计卡片 -->
 [![GitHub数据](https://github-readme-stats.vercel.app/api?username=China-SeaChange&show_icons=true&theme=dark&count_private=true)](https://github.com/China-SeaChange)
 [![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=China-SeaChange&layout=compact&theme=dark)](https://github.com/China-SeaChange)
