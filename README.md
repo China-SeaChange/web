@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+[SeaChange];幻想成为Full+Stack+Developer;只能够成为Open+Source+Contributor" alt="动态标题" />
 </h1>
 
-<div align="center">
-  ![动态文字](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&color=00CED1&width=500&lines=欢迎来到我的代码世界;持续构建数字魔法)
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&color=00CED1&width=500&lines=欢迎来到我的代码世界;持续构建数字魔法">
 </p>
