@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&color=00CED1&width=500&lines=我的个人博客http://www.seachange.chat">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&color=00CED1&width=500&lines=源代码解压密码默认：SeaChangeZxFn22JB">
 </p>
 
 ## 技术栈
