@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ 技术栈
+## 技术栈
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,wordpress,visualstudio,svg,md,ai&theme=dark&perline=8" alt="技术图标" />
 </p>
