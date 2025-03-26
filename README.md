@@ -28,3 +28,16 @@
 
 ---
 
+<!-- 分形数据流边框 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/你的用户名/仓库名/main/images/fractal-border.svg" width="100%">
+</div>
+
+---
+
+## 🎮 数字交互终端
+```python
+# 点击▶️启动终端交互
+from datetime import datetime
+print(f"系统时间 {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+print("输入指令 > [正在等待量子信号...]")
