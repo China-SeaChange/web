@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&color=00CED1&width=500&lines=欢迎来到我的代码世界;持续构建数字魔法">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&color=00CED1&width=500&lines=我的个人博客http://www.seachange.chat">
 </p>
 
 ## 技术栈
