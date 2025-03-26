@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+[SeaChange];幻想成为Full+Stack+Developer;只能够成为Open+Source+Contributor" alt="动态标题" />
 </h1>
 
----
+![3D文字](https://raw.githubusercontent.com/你的用户名/仓库名/main/images/3d-text.gif)
 
 ## 技术栈
 <p align="center">
