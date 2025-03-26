@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+[SeaChange];Full+Stack+Developer;Open+Source+Contributor" alt="动态标题" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+[SeaChange];幻想成为Full+Stack+Developer;只能够成为Open+Source+Contributor" alt="动态标题" />
 </h1>
 
 ---
