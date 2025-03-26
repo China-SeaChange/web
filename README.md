@@ -23,7 +23,7 @@
 
 ## 📈 开发数据
 <!-- 动态统计卡片 -->
-[![GitHub数据](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=dark&count_private=true)](https://github.com/你的用户名)
+[![GitHub数据](https://github-readme-stats.vercel.app/api?username=China-SeaChange&show_icons=true&theme=dark&count_private=true)](https://github.com/China-SeaChange)
 [![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=dark)](https://github.com/你的用户名)
 
 ---
