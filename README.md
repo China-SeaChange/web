@@ -6,6 +6,10 @@
   ![动态文字](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&color=00CED1&width=500&lines=欢迎来到我的代码世界;持续构建数字魔法)
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&color=00CED1&width=500&lines=欢迎来到我的代码世界;持续构建数字魔法">
+</p>
+
 ## 技术栈
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,wordpress,visualstudio,svg,md,ai&theme=dark&perline=8" alt="技术图标" />
