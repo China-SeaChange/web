@@ -28,16 +28,12 @@
 
 ---
 
-<!-- 分形数据流边框 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/你的用户名/仓库名/main/images/fractal-border.svg" width="100%">
-</div>
-
----
-
-## 🎮 数字交互终端
-```python
-# 点击▶️启动终端交互
-from datetime import datetime
+  <a href="http://www.seachange.chat/">
+    <img src="https://img.shields.io/badge/Powered_by-SeaChange-%2300CED1?style=for-the-badge&logo=git&logoColor=white" alt="SeaChange徽章">
+  </a>
+  <br>
+  <sub>由下一代对话智能引擎提供技术支持</sub>
+</div>datetime
 print(f"系统时间 {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 print("输入指令 > [正在等待量子信号...]")
