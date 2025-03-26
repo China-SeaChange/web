@@ -37,3 +37,12 @@
 </div>datetime
 print(f"系统时间 {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 print("输入指令 > [正在等待量子信号...]")
+
+---
+<div align="center">
+  <a href="http://www.seachange.chat/">
+    <img src="https://img.shields.io/badge/系统架构-SeaChange_Chat_Engine-%2300FFFF?style=for-the-badge&logo=starship&logoColor=white">
+  </a>
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=12&duration=3000&color=00CED1&center=true&vCenter=true&width=500&lines=Conversational+AI+Powered+by+SeaChange+Lab;Build+with+❤️_from_Shenzhen" alt="动态文字">
+</div>
